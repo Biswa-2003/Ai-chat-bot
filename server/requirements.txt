@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+requests
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+chromadb
+pymupdf
+google-generativeai
+openai
+tiktoken
+langchain
+langchain-community
